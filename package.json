@@ -1,7 +1,7 @@
 {
   "name": "simple-chatbot",
-  "version": "1.0.0",
-  "description": "This is a simple chat bot for facebook messenger using NodeJS.",
+  "version": "1.1.0",
+  "description": "Chat bot auto reply for facebook messenger using Simsimi API and NodeJS",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,12 +9,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tinhnhanvh/simple-chatbot.git"
+    "url": "git+https://github.com/tinhnhanvh/facebook-chat-bot.git"
   },
   "author": "@tinhnhanvh",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/tinhnhanvh/simple-chatbot/issues"
+    "url": "https://github.com/tinhnhanvh/facebook-chat-bot/issues"
   },
-  "homepage": "https://github.com/tinhnhanvh/simple-chatbot#readme"
+  "homepage": "https://github.com/tinhnhanvh/facebook-chat-bot#readme"
 }
